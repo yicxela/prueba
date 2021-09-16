@@ -1,0 +1,45 @@
+.card{
+    position: absolute;
+    background-color: rgb(175, 175, 175);
+    width: 400px;
+    height: 200px;
+    left:500px;
+    top: 400px;
+    border-radius: 10px;
+    
+}
+
+
+.blue-border{
+    background-color: rgb(63, 156, 248);
+    
+    
+    width: 100%x;
+    height: 40px;
+    border-radius: 10px;
+    /* margin-left: auto;
+    margin-right: auto; */
+   
+}
+.img-style{
+    width: 400px;
+    height: 200px;
+}
+.red-border{
+    background-color: rgb(248, 63, 63);
+    
+    
+    width: 100%x;
+    height: 40px;
+    border-radius: 10px;
+
+}
+/* .button{
+    position: absolute;
+    bottom: 0;
+    width: 200px;
+    height: 100px;
+    color: cornflowerblue;
+    background-color: darkkhaki;
+    border-radius: 15px;
+} */
